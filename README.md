@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## ⋆˚✿˖° About Me!
-<h2>My name is Jinhee Chang!</h1>
-<p>I'm a passionate Computer Science student at GT looking to get into software development and robotics!</p>
-<p> ♡ I'm currently working on a study app and a robotics simulator!</p>
-<p> ♡ I'm currently learning C++, C and Algorithm Design!</p>
+<p>My name is Jinhee Chang! I'm a passionate Computer Science student at Georgia Tech (Threads: Intelligence and People) looking to get into software development and robotics!</p> 
 
-<h2>🚀 Languages and Tools I Use</h2>
+## 🌱 What am I currently working on?
+- 🤖 Learning Ros and Gazebo with a Robot Sumo Simulator
+    - Exploring Gazebo and Ros in order to make a fully functional Robot Sumo simulator! Here's some stuff that I'll need to consider:
+        - Optimal sensor placements in order to avoid blind spots
+        - The best degree angle to get under my opponents
+        - The best autonomous strategies in the game!
+- 📓 Study App
+    - I'm always trying to search for the best study app for me... why not do it myself?
+    - Learning how to navigate React.js
+    - Getting into design work and full stack development!
+
+## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>

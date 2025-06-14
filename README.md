@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.h1 {
-    font-family: "Marvel";
-}
-<h1>My name is Jinhee Chang!</h1>
+
+<h2>My name is Jinhee Chang!</h1>
 <p>I'm a passionate Computer Science student at GT looking to get into software development and robotics!</p>
+<p> ♡ I'm currently working on a study app and a robotics simulator!</p>
+<p> ♡ I'm currently learning C++, C and Algorithm Design!</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

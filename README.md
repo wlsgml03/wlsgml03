@@ -1,4 +1,4 @@
-## print("Hello World!")
+# print("Hello World!")
 
 <!--
 **wlsgml03/wlsgml03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⋆˚✿˖° About Me!
 <h2>My name is Jinhee Chang!</h1>
 <p>I'm a passionate Computer Science student at GT looking to get into software development and robotics!</p>
 <p> ♡ I'm currently working on a study app and a robotics simulator!</p>

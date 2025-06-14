@@ -28,6 +28,8 @@ Here are some ideas to get you started:
     - I'm always trying to search for the best study app for me... why not do it myself?
     - Learning how to navigate React.js
     - Getting into design work and full stack development!
+- 🐉 3kg Megasumo
+  - Exploring autonomous algorithms with real time sensor readings
 
 ## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
